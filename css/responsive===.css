@@ -1,0 +1,1449 @@
+.login_you_icon ul, .login_you_icon_next ul, .login_you_icon_Sync ul {
+    padding-left: 0px;
+}
+@media screen and (min-width:769px) and (max-width:800px){
+	.upload_media_file {
+    margin-left: 0px !important;
+    width: 100%;
+    min-width: 490px;
+}
+.brand-mak-calendar img {
+    padding-bottom: 42px;
+}
+.add_img_block_size {
+    width: 61%;
+   
+}
+.add_img_block_size_2 {
+    width: 39%;
+   
+}
+.upload-btn-wrapper .btn {
+    padding: 57px 9px;
+ 
+}
+.question-icon {
+   min-width: 485px;
+}
+}
+@media screen and (max-width:900px) and (min-width:900px){
+	.upload_media_file {
+    min-width: 530px!important;
+    margin-left: 0px !important;
+}
+.add_img_block {
+   max-width: 120px;
+   
+}
+.upload-btn-wrapper .btn {
+    padding: 57px 38px;
+  
+}
+.login_you_contant {
+    margin-left: 0px;
+}
+}
+@media screen and (min-width:1024px){
+    .padd-0-all {
+    padding: 0px !important;
+}
+}
+#playits {
+    max-width: 850px;
+    margin: 0px auto;
+}
+.custom-timer {
+    padding: 0px;
+    list-style-type: none;
+}
+.custom-timer li {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0px 10px;
+    position: relative;
+}
+.custom-timer li span {
+    display: block;
+    font-size: 10px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+.custom-timer li:after {
+    content: "";
+    background: #fff;
+    border: 2px solid #fff;
+    top: 5px;
+    position: absolute;
+    height: 30px;
+    right: -5px;
+}
+.custom-timer li:last-child:after {
+    border: 0px;
+}
+.Story-title {
+    font-size: 14px;
+}
+
+@media screen and (min-width:1600px){
+    .mrg1 {
+        margin-top: 45px;
+    }
+    .brand-mak-calendar img {
+    padding-bottom: 42px;
+}
+    .pd {
+        padding: 94px 12px;
+    }
+    #login_you {
+        width: 100% !important;
+        max-width: 1500px;
+        margin: 0 auto;
+     
+    }
+    .add_img_block {
+         max-width: 146px;
+     
+    }
+    .login_you_contant_second {
+        min-width: 800px;
+        margin-left:120px;
+    }
+    .upload-btn-wrapper .btn {
+        padding: 57px 10px;
+       
+    }
+        .upload_media_file {
+        min-width: 800px;
+        margin-left: 120px;
+    }
+    .add_img_block_size {
+        width: 36%;
+        
+    }
+    .add_img_block_size_2 {
+        width: 64%;
+       
+    }
+    .login_you_contant {
+        min-width: 800px;
+        margin-left: 120px;
+    }
+    .question-icon {
+        min-width: 800px;
+        margin-left: 120px;
+    }
+	#login_you {
+	height: 84vh;
+	}
+    #you .Avnr1 {
+        height: 232px;
+    }
+    .Story-inner.hostprofileartistside p {
+    font-size: 10px;
+    font-family: dinregular;
+}
+    #notifications {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+    .custom-table-notifications tbody>tr>td {
+        font-size: 14px;
+    }
+    .custom-table-update p {
+        font-size: 13px;
+        padding: 16px 8px !important;
+    }
+    .custom-table-notifications tbody>tr>td {
+       padding: 15px 10px !important;
+    }
+    .custom-please-update p {
+        font-size: 14px;
+    }
+    .avner {
+        font-size: 36px;
+    }
+    .hi {
+        font-size: 36px;
+    }
+    .hi-avner {
+        max-width: 1600px;
+    }
+    #setting {
+     max-width: 840px;
+     }
+     .homepagetab-2 {
+    width: 1600px !important;
+}
+.custom-navbar {
+    margin: 0px;
+    padding: 80px 0px 0px 0px;
+    margin-bottom: 0px !important;
+}
+#myNavbar .navbar-right {
+    margin-right: 0px;
+}
+.custom-logo img {
+    max-width: 110px;
+}
+.custom-container-dashboard {
+    width: 1600px!important;
+}
+.custom_offset {
+    width: 1433px!important;
+    margin-left: 4%!important;
+}
+.custom-left-inner-das {
+    padding: 12px 15px!important;
+}
+.custom-center-das {
+   padding: 11px 0px;
+}
+.custom-center-das h3 {
+    font-size: 43px;
+    font-family: dinbold;
+}
+.custom-inner-right-das-list h1 {
+    font-size: 42px;
+}
+.custom-inner-right-das-list {
+     padding: 12px 0px !important;
+}
+.custom-das-bottom {
+    border-radius: 10px;
+    padding: 10px 0px;
+}
+.custom-das-bottom {
+    height: auto!important;
+   
+}
+.custom-inner-brand-top img {
+    width: 100%;
+    height: 190px;
+}
+.top-matches_sec {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+.top-matches_sec_1{
+    padding-right: 0px !important;
+}
+.custom-das-bottom-right_sec {
+    height: 670px;
+   
+}
+.earned_top {
+    margin: 0px;
+    height: 308px;
+}
+#playits {
+    max-width: 1235px;
+ 
+}
+.custom-timmer-full h1 {
+    font-family: dinbold;
+    font-size: 50px;
+}
+.Story-inner p {
+    font-size: 22px;
+    font-family: dinregular;
+}
+.custom-timmer-full {
+    height: auto;
+}
+.custom-title-right {
+    float: unset;
+  
+}
+.custom-table-notifications-1 tbody>tr>td {
+    font-size: 14px;
+}
+.login_you_contant {
+     margin-left: 120px;
+}
+.custom_p {
+    min-width: 20%!important;
+    padding: 0px!important;
+}
+.pr-0{
+    padding-right: 0px!important;
+}
+.custom_min_width{
+    min-width: 30%!important;
+}
+.custom_max_width{
+    max-width: 40%!important;
+    padding: 0px!important;
+}
+#srevice_all {
+    width: 100%;
+    max-width: 1170px;
+    margin-left: 50px;
+}
+#srevice_sound {
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+}
+.service_piano_about {
+    height: 316px;
+}
+.host_user-cus {
+    height: 163px !important;
+}
+.custom_modal-dialog {
+    width: 400px!important;
+   
+}
+#Homepage .navbar-nav .dropdown-toggle {
+    padding: 0px 38px;
+    font-size: 32px;
+ }
+ #Homepage3 .navbar-nav .dropdown-toggle {
+    padding: 0px 38px;
+    font-size: 32px;
+ }
+ #Homepage{
+     background: url(../images/home-page-background.png);
+    float: left;
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 150vh;
+	background-size: cover;
+ }
+ .header-menu .navbar-right .custom-dropdown-menu {
+     min-width: 490px;
+     border-radius: 10px;
+     display: block !important;
+}
+.custom-dropdown-menu .nav-tabs>li>a {
+   padding: 20px 96px;
+    max-width: 100%;
+    font-size: 16px;
+    font-family: dinregular;
+}
+.custom-tab-content #playit {
+    text-align: center;
+}
+.custom-tab-content #brand {
+    text-align: center;
+}
+.cutom-menu-2 i.fa.fa-linkedin {
+    right: unset;
+    font-size: 29px;
+    top: 7px;
+    left: 22px;
+ 
+}
+.homepagetab-2 .custom-tab-content li:first-child {
+    margin-bottom: 43px;
+}
+
+.homepagetab-2 .custom-tab-content #playit>li>a {
+   padding: 13px 57px;
+    font-size: 19px;
+   font-family: dinregular;
+}
+.homepagetab-2 .custom-tab-content #brand>li>a {
+    padding: 13px 57px;
+     font-size: 19px;
+    font-family: dinregular;
+ }
+.cutom-menu-1 i.fa.fa-facebook {
+    left: 21px;
+    bottom: 10px;
+    font-size: 29px;
+}
+.custom-tab-content {
+    padding: 10px 50px;
+    margin-top: 35px;
+}
+.homepagetab-2 .custom-tab-content #playit .checkbox label {
+    font-size: 20px;
+    font-weight: normal !important;
+    font-family: dinlight;
+}
+.homepagetab-2 .custom-tab-content #brand .checkbox label {
+    font-size: 20px;
+    font-weight: normal !important;
+    font-family: dinlight;
+}
+#Homepage .custom-navbar-right {
+    transform: translate(-23%, 36%);
+}
+#Homepage3 .custom-navbar-right {
+    transform: translate(-23%, 36%);
+}
+#Homepage .checkbox label {
+    color: #fff;
+    margin: 25px 7px;
+    max-width: 85%;
+    width: 100%;
+}
+#Homepage3 .checkbox label {
+    color: #fff;
+    margin: 25px 7px;
+    max-width: 85%;
+    width: 100%;
+}
+#Homepage .custom-tab-content #brand .checkbox label {
+    color: #fff;
+    margin: 25px 7px;
+    max-width: 85%;
+    width: 100%;
+}
+#Homepage3 .custom-tab-content #brand .checkbox label {
+    color: #fff;
+    margin: 25px 7px;
+    max-width: 85%;
+    width: 100%;
+}
+.header-menu .navbar.navbar-inverse.brand_nav {
+    padding: 10px 0px;
+}
+.login_you_location li:nth-child(1) img {
+    max-width: 11px;
+    height: 22px;
+}
+.pick_your_player_select {
+    transform: translate(-7%, 0%);
+}
+.padd-0-all .Story {
+    height: 346px;
+}
+}
+@media only screen and (min-width:1200px) and (max-width:1599px){
+    #notifications {
+        max-width: 1029px !important;
+        margin: 0px auto !important;
+    }
+    }
+    @media only screen and (min-width:320px) and (max-width:600px){
+        .click_your_profile {
+            font-size: 17px;
+           
+      
+}
+.custom-table-notifications tbody tr:nth-child(1):after, .custom-table-notifications tbody tr:nth-child(2):after {
+    content: none;
+   
+}  
+.playit_notification_1 {
+    margin-top: 15px;
+}
+.playit_notification_2 {
+    margin-top: 15px;
+}
+.custom_max_width {
+    display: inline-block;
+}
+.notefication_spaner {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.login_you_icon_Sync li {
+   padding: 0px 20px;
+}
+		#login_you h2, #login_play h2 {
+    transform: unset !important;
+}
+        #host .hostprofileartistside {
+            padding: 0 !important;
+        }
+        #host .Story {
+           height: auto;
+        }
+        #host .Story-title-2 {
+            font-size: 14px;
+        }
+        #host .location p {
+           font-size: 13px;
+            font-family: dinregular;
+        }
+        #host .client p {
+           font-size: 13px;
+            font-family: dinregular;
+        }
+    .mob-notict-9 {
+        display: none;
+    }
+    .mob-notict-3 .new-playit {
+        display: none;
+    }
+    .hi-avner {
+        padding-bottom: 0px !important;
+    }
+    .custom-title-right ul {
+        padding: 0px;
+    }
+    .custom-title-right ul li a, .custom-title-right ul li a:hover {
+        font-size: 12px;
+    }
+    .custom-title-right ul li:nth-child(1), .custom-title-right ul li:nth-child(2) {
+        padding-right: 4px;
+    }
+    .custom-left-das {
+        width: 100%;
+        display: inline-block;
+    }
+    .custom-left-inner-das .custom-group-left {
+        max-width: 80%;
+    }
+    .dollars_sec {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .custom-das-bottom {
+        height: 220px !important;
+         margin-right: 5px !important;
+        margin-left: 5px !important;
+        border-radius: 5px;
+    }
+    .custom-left-das .custom-left-inner-das.pa:first-child:before {
+     left: -10px;
+    }
+    .custom-left-das .custom-left-inner-das.pa:nth-child(2):before {
+     left: -10px;
+    }
+    .custom-left-das .custom-left-inner-das.pa:nth-child(3):before {
+      left: -10px;
+    }
+    .custom-inner-brand-top img {
+        width: 100%;
+        height: 187px;
+    }
+    .header-menu .navbar {
+        margin-bottom: 0px !important;
+    }
+    .custom-search-dashboard {
+        padding-bottom: 0px;
+    }
+    .custom-search-dashboard img {
+        margin-top: 15px;
+    }
+    .custom-title-right ul li a img {
+        max-width: 15px;
+    }
+    
+    }
+@media screen and (min-width:801px) and (max-width:1024px){
+	.add_img_block_size {
+    width: 49%;
+   
+}
+.upload_media_file {
+   min-width: 600px;
+}
+.question-icon {
+    min-width: 600px;
+    margin-left: 25px;
+}
+.add_img_block_size_2 {
+    width: 51%;
+   
+}
+.upload_media_file {
+    margin-left: 25px;
+   
+}
+    #login_you {
+        max-width: 945px;
+        height: auto !important;
+        margin: 0 auto;
+    }
+    .custom_width_gride {
+        min-width: 23%;
+    }
+    .login_you_contant {
+        margin-left: 25px;
+      
+    }
+    .login_you_contant_second {
+        min-width: 600px;
+        margin-left: 25px;
+    }
+    .login_you_contant_inner h3 {
+         font-size: 28px;
+         margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .login_you_musician {
+        padding-bottom: 15px;
+    }
+	
+    .login_you_location li {
+       padding: 0px 10px 0px 0px;
+	       margin-bottom: 10px;
+    }
+    .login_you_location li a img {
+       max-width: 15px;
+    }
+    .login_you_text h4 {
+        font-family: dinregular;
+        font-size: 20px;
+    }
+    .login_you_text p {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    /*.login_you_contant_img img {
+       height: 240px;
+    }*/
+    .dataTables_length {
+        max-width: 128px;
+    }
+    #datatable tr td {
+       font-size: 16px;
+        width: 40%;
+    }
+    .loginafter {
+       min-width: 710px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .login_you_icon_next li {
+        padding: 0px 45px;
+    }
+    .pr-0 {
+        padding-right: 0px!important;
+    }
+    .custom_p {
+        padding: 0px !important;
+    }
+    #playits {
+        max-width: 980px;
+    }
+    .custom_max_width {
+        max-width: 36%;
+        padding-right: 0px!important;
+    }
+    .custom_min_width {
+        min-width: 31%;
+        padding-right: 0px!important;
+    }
+    .trending_inner_inner_graph ul {
+        padding: 0px;
+    }
+    .custom-timer_2 {
+        text-align: center;
+    }
+    .custom-timer_2 li {
+       font-size: 18px;
+        padding: 0px 0px;
+        text-align: center;
+    }
+    .custom-timer_2 li span {
+        margin-top: 5px;
+    }
+    #playits {
+        max-width: 1065px;
+    }
+    #Homepage .custom-navbar {
+        padding: 55px 0px 0px 0px;
+        margin-bottom: 0px !important;
+        width: 100%;
+        max-width: 919px;
+        margin: 0 auto;
+    }
+    #Homepage3 .custom-navbar {
+        padding: 55px 0px 0px 0px;
+        margin-bottom: 0px !important;
+        width: 100%;
+        max-width: 919px;
+        margin: 0 auto;
+    }
+    .header-menu .navbar.navbar-inverse.brand_nav {
+        padding: 10px 0px;
+    }
+    #Homepage {
+    height: 150vh;
+    background-size: cover;
+    }
+    .custom-dropdown-menu .nav-tabs>li>a {
+        padding: 13px 67px;
+    
+    }
+    .custom-logo img {
+        max-width: 110px;
+    }
+    .custim-navbar-nav-inner li a {
+        padding: 15px 25px 0px 25px !important;
+    }
+    #myNavbar .navbar-right {
+        margin-right: 0px;
+    }
+    body.profile-host-side {
+        padding: 0px 0px 100px 0px;
+    }
+    .login_you_musician li {
+        padding: 0px 10px 0px 10px;
+    }
+    .feedmain_side_bar {
+        padding: 20px 20px;
+    }
+    .mainfeed_type {
+        padding-bottom: 5px;
+    }
+    .mainfeed_.event_detalis_celander .c-pad-top {
+        font-size: 13px;
+    }
+    .pick_your_player_select {
+        transform: translate(-7%, 0%);
+    }
+    .main_feed_gallery {
+       margin-top: 20px;
+    }
+    .gal_imgs img {
+       height: 230px;
+    }
+    .gallery_product:nth-child(7n+1) {
+        clear: unset;
+    }
+    .services_feed {
+        padding: 20px 20px;
+    }
+    .service_contant_inner_tab {
+        padding: 15px 15px;
+    }
+    .service_box_title h2 {
+        font-size: 20px;
+         font-family: dinregular;
+     }
+     .service_box_title p {
+        font-size: 14px;
+    }
+    .Story {
+       height: 380px;
+    }
+    .host_user-cus {
+        height: 201px !important;
+    }
+    #Homepage3 #myNavbar .navbar-right {
+        margin-right: 0px !important;
+    }
+    #host .Story-inner {
+        padding: 0px;
+    }
+    #host .Story-inner p {
+        font-size: 15px;
+        font-family: dinregular;
+    }
+    #host .Story {
+        height: 300px;
+    }
+    }
+	
+@media screen and (min-width:601px) and (max-width:768px){
+    .login_you_you ul .active:before {
+        right: -26px;
+    }
+    .header-menu .brand_nav {
+        margin-bottom: 0px;
+    }
+    .upload_media_file {
+        margin-left: 0px;
+        width: 100%;
+		    min-width: 475px;
+    }
+	.question-icon {
+    margin-left: 0px;
+    width: 100%;
+    min-width: 475px;
+}
+    .add_img_block_size {
+        width: 42%;
+    }
+    .add_img_block {
+        max-width: 90px;
+        height: 100px;
+    }
+    .upload-btn-wrapper .btn {
+        padding: 36px 10px;
+    }
+    .add_img_block_size_2 {
+        width: 58%;
+        height: 207px;
+   }
+   .report {
+   width: 100%;
+    }
+    .login_you_icon_next li {
+        padding: 0px 45px;
+    }
+    #myNavbar .navbar-right {
+        margin-right: 0px;
+    }
+    .custim-navbar-nav-inner li a {
+       padding: 15px 15px 0px 10px !important;
+    }
+    .custom-logo {
+        padding: 0px 25px;
+        margin-top: 5px;
+    }
+    .row.fans-chart .col-md-2.col-sm-2.col-xs-2 {
+     display: unset;
+    }
+    .row.pl-details2, .row.pl-details4, .row.pl-details6 {
+        margin-right: 0px;
+    }
+    p.Story-title-2 {
+        font-size: 15px;
+        font-family: dinregular;
+    }
+    .padd-0-all .Story {
+        height: 345px !important;
+    }
+    .custim-navbar-nav-inner-1 li a {
+       padding: 15px 7px 0px 7px !important;
+    }
+    .custom-title-right ul {
+        padding: 0px;
+    }
+    .custom-title-right ul li:nth-child(1), .custom-title-right ul li:nth-child(2) {
+        padding-right: 0px;
+    }
+    .custom-title-right ul li a, .custom-title-right ul li a:hover {
+        font-size: 13px;
+    }
+    .custom-title-right ul li a img {
+        max-width: 18px;
+    }
+    .custom-das-bottom {
+        height: 180px !important;
+        border-radius: 5px;
+    }
+    .custom-left-inner-das .custom-group-left {
+        max-width: 84%;
+   }
+   .padd-l-r-0 {
+    padding-left: 0px !important;
+}
+.custom-center-das h3 {
+    font-size: 22px;
+    }
+    .feedmain_side_bar {
+       padding: 20px 10px;
+    }
+    .pick_player_title {
+        font-size: 15px;
+    }
+    .main_feed_gallery .btn-default {
+       font-size: 15px;
+        padding: 6px 8px;
+    }
+    .main_feed_gallery {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    #Homepage3 .custom-navbar {
+        margin-top: 40px;
+    }
+    #Homepage .custom-navbar {
+        margin-top: 40px;
+    }
+    #host .hostprofileartistside {
+        padding: 0 !important;
+    }
+    #host .Story {
+       height: 300px;
+    }
+    #host .Story-title-2 {
+        font-size: 14px;
+    }
+    #playits .custom-timmer-full {
+        height: 276px !important;
+    }
+    #playits .play-Story-title {
+       padding: 4px 0px 0px 0px;
+    }
+    #playits .earned_inner {
+        font-size: 30px;
+    }
+    #playits .padd-0-all {
+        padding: 0px;
+    }
+    #notifications {
+        width: 100%;
+        max-width: 610px;
+        margin: 0 auto;
+    }
+    #setting .edit_btn {
+        margin-top: 30px;
+        text-align: center;
+        padding-bottom: 40px;
+    }
+    .playit_notification_1 {
+       margin-bottom: 15px;
+    }
+    .houre_day {
+        margin-bottom: 10px;
+    }
+    .mrgn1 {
+        margin-top: 10px;
+    }
+    #playits {
+        max-width: 595px;
+    }
+    #setting {
+        max-width: 595px;
+    }
+    #playits .custom-table-notifications-1 thead tr th {
+       font-size: 15px;
+    }
+    #playits .custom-table-notifications-1 tbody>tr>td:last-child {
+        width: 17%;
+    }
+    #playits .tabel-details {
+        padding: 7px 10px;
+    }
+    .custom-notifications-tabs-inner-you #You {
+        max-width: 630px;
+    }
+    .custom-notifications-tabs-inner-you #You .Story-inner-you {
+        height: 245px;
+    }
+    .custom-notifications-tabs-inner-you #You .Story-title-2 {
+        font-size: 11px;
+       text-align: justify;
+    }
+    .custom-notifications-tabs-inner-you #Fans .rel-txt .footer-cont1, .rel-txt .footer-cont4 {
+        position: relative;
+        top: -24px;
+    }
+    .custom-notifications-tabs-inner-you #Fans .month ul li {
+        font-size: 13px;
+    }
+    .custom-notifications-tabs-inner-you #Fans .month ul li span{
+        font-size: 14px !important;
+    }
+    .custom-notifications-tabs-inner-you #Fans {
+        max-width: 670px;
+    }
+    .services_feed {
+       padding: 20px 10px;
+    }
+    .service_piano_about {
+        margin-bottom: 10px;
+        border-radius: 5px;
+    }
+    .host_user_image {
+        border-radius: 5px;
+    }
+    .srevice_sound_contant {
+        border-radius: 5px;
+    }
+    .srevice_sound_contant1 {
+        border-radius: 5px;
+    }
+    #srevice_sound .inner-contant {
+        border-radius: 5px;
+    }
+    #playits .custom-timmer-full .Story-inner {
+        padding: 18px;
+    }
+    .custom-timer_2 {
+      text-align: center;
+    }
+}
+@media screen and (min-width:1025px) and (max-width:1440px){
+		.pd {
+    padding: 93px 12px;
+}
+.mrg1 {
+    margin-top: 55px;
+}
+    .step_second ul li.login_0 {
+        font-size: 18px!important;
+        margin-left: 20px!important;
+    }
+    .step_second ul li.login_3 {
+        font-size: 14px!important;
+        padding-right: 32px!important;
+    }
+    .step_three ul li.login_2 {
+        font-size: 15px!important;
+        padding-right: 35px!important;
+    }
+    .step_three ul li.login_3 {
+        font-size: 11px!important;
+        padding-right: 50px!important;
+    }
+    .step_three ul .login_1 {
+        font-size: 12px!important;
+    }
+    .step_four ul li.login_2 {
+        font-size: 14px!important;
+        padding-right: 50px!important;
+    }
+    .step_four ul .login_1 {
+        font-size: 14px!important;
+    }
+   
+    .login_you_contant_inner h3 {
+       font-size: 28px;
+    }
+    .login_you_text {
+        margin-top: 15px;
+    }
+  /*  .login_you_icon_next li:last-child {
+        padding-left: 0px;
+    }*/
+    .upload_media_file {
+        margin-left: 85px;
+           min-width: 700px;
+    }
+    .add_img_block_size_2 {
+        width: 64%;
+   }
+    .add_img_block_size {
+        width: 36%;
+    }
+    .login_you_contant_second {
+            margin-left: 85px;
+    min-width: 700px;
+    }
+    .step-six {
+        padding-top: 0px !important;
+    }
+    .step-six .login_1 {
+        font-size: 14px !important;
+    }
+    .step-six li.login_3 {
+        font-size: 12px!important;
+        padding-right: 47px!important;
+    }
+    #Homepage .custom-navbar {
+        padding: 55px 0px 0px 0px;
+        margin-bottom: 0px !important;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .custom-timmer-full {
+        height: 319px !important;
+    }
+    .pt-loc1 ul li {
+        padding: 0px 9px;
+    }
+    #Homepage3 .custom-navbar {
+        padding: 55px 0px 0px 0px;
+        margin-bottom: 0px !important;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .login_you_you ul li.login_2 {
+        font-size: 10px;
+        padding-right: 50px;
+      
+    }
+    .login_you_you ul li.login_3 {
+        font-size: 7px;
+        padding-right: 70px;
+        
+    }
+    .login_you_you ul li.login_4 {
+        font-size: 7px;
+        padding-right: 90px;
+        
+    }
+  
+    .add_img_block {
+       max-width: 116px;
+      
+    }
+    .upload-btn-wrapper .btn {
+        padding: 57px 13px;
+      
+    }
+    .report {
+         width: 100%;
+      
+    }
+    .custom-notifications-tabs-inner-you #You .Story-inner-you {
+         height: 253px;
+    }
+    #You .Avnr1 {
+        height: 254px;
+    }
+    body.profile-host-side {
+        padding: 0px 0px 100px 0px;
+    }
+    .login_you_musician li {
+        padding: 0px 10px 0px 10px;
+    }
+    .custom-logo img {
+        max-width: 110px;
+    }
+    #myNavbar .navbar-right {
+        margin-right: 0px;
+    }
+    #Homepage {
+        height: 200vh;
+        background-size: cover;
+    }
+    .header-menu .navbar.navbar-inverse.brand_nav {
+        padding: 10px 0px;
+    }
+    .custom-dropdown-menu .nav-tabs>li>a {
+        padding: 13px 67px;
+    }
+    #Homepage .custom-navbar-right {
+        transform: translate(-23%, 36%);
+    }
+    #Homepage3 .custom-navbar-right {
+        transform: translate(-23%, 36%);
+    }
+    #playit .cutom-menu-2 {
+        padding: 13px 36px;
+    }
+    .login_you_contant {
+        margin-left: 85px;
+       min-width: 700px;
+    }
+    /*.login_you_contant_img img {
+        height: 315px;
+    }*/
+    .login_you_contant_inner h3 {
+        margin-top: 5px;
+        margin-bottom: 0px;
+    }
+    .pr-0 {
+        padding-right: 0px!important;
+    }
+    .custom_p {
+        padding: 0px !important;
+    }
+    #playits {
+        max-width: 1065px;
+    }
+    .custom_max_width {
+        max-width: 36%;
+        padding-right: 0px!important;
+    }
+    .custom_min_width {
+        min-width: 31%;
+        padding-right: 0px!important;
+    }
+    .custom-timer_2 li {
+        font-size: 18px;
+        padding: 0px 2px;
+        text-align: center;
+    }
+    .custom-timer_2 {
+        text-align: center;
+    }
+    .custom-timer_2 li span {
+        margin-top: 5px;
+    }
+    .feedmain_side_bar {
+        padding: 20px 40px;
+    }
+    .mainfeed_type {
+        padding-bottom: 5px;
+    }
+    .mainfeed_.event_detalis_celander .c-pad-top {
+        font-size: 13px;
+    }
+    .pick_your_player_select {
+        transform: translate(-7%, 0%);
+    }
+    .main_feed_gallery {
+       margin-top: 20px;
+    }
+    .gal_imgs img {
+       height: 255px;
+       max-width: 230px;
+    }
+    .gallery_product:nth-child(7n+1) {
+        clear: unset;
+    }
+    .service_contant_inner_tab {
+        padding: 15px 15px;
+    }
+    .service_box_title h2 {
+       font-size: 20px;
+        font-family: dinregular;
+    }
+    .service_box_title p {
+        font-size: 14px;
+    }
+    .services_feed {
+        padding: 20px 50px;
+     }
+     .Story {
+      height: 349px !important;
+     }
+     .host_user-cus {
+        height: 191px !important;
+    }
+    
+    #login_you {
+        max-width: 1100px;
+    }
+   
+    .question-icon {
+           min-width: 780px;
+    margin: 0 auto;
+	}
+	.question-icon-3 {
+    min-width: 591px;
+}
+    }
+    .login_you_you ul .login_0 {
+        font-size: 18px;
+    }
+    .login_you_you ul .login_1 {
+        font-size: 16px;
+    }
+    #login_play {
+        max-width: 1100px;
+    }
+    .padd-l-r-0 {
+        padding-left: 0px;
+    }
+    .custom-das-bottom {
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+    .mainfeed_.event_detalis p {
+      color: #000;
+    }
+    #Homepage3 #myNavbar .navbar-right {
+        margin-right: 0px !important;
+    }
+    .custom-timmer-full h1 {
+        font-size: 46px;
+    }
+    .location {
+        padding: 17px;
+    }
+    .earned_top {
+        height: 318px;
+    }
+    .custom-form-check input[type="checkbox"] + .label-text:before {
+     font-size: 22px;
+     }
+     .custom-form-check span.label-text {
+        font-size: 13px;
+        margin-right: 14px;
+    }
+    .custom-form-check {
+       margin-right: 0px;
+    }
+    .bonecrusher_title_1, .bonecrusher_title {
+        font-size: 10px;
+    }
+    .custom-table-notifications-1 tbody>tr>td:nth-child(1), .custom-table-notifications-1 tbody>tr>td:nth-child(2), .custom-table-notifications-1 tbody>tr>td:nth-child(3) {
+        font-size: 17px;
+        font-family: dinbold;
+     
+    }
+    .tabel-details {
+        font-size: 14px;
+        font-family: dinbold;
+    }
+    .playit_notification_inner_1 p {
+        font-size: 13px;
+    }
+    .Story-title-2 {
+        font-family: dinregular;
+        font-size: 14px;
+    }
+    .hostprofileartistside {
+        padding-top: 20px !important;
+    }
+    .hostprofileartistside p.Story-title-2 {
+        font-size: 14px !important;
+    }
+    .Story-title {
+        font-size: 25px;
+    }
+    .dataTables_length {
+        max-width: 175px;
+    }
+	
+@media screen and (min-width:1441px) and (max-width:1599px){
+	.upload-btn-wrapper .btn {
+    padding: 57px 10px;
+   
+}
+#login_you {
+    width: 100%;
+    max-width: 1100px;
+}
+	.upload_media_file {
+    min-width: 700px;
+	 margin-left: 50px;
+}
+.add_img_block_size {
+    width: 43%;
+    
+}
+.add_img_block_size_2 {
+    width: 57%;
+   
+}
+.login_you_contant {
+    min-width: 700px;
+    margin-left: 50px;
+}
+.question-icon {
+    min-width: 700px;
+    margin-left: 50px;
+}
+.login_you_contant_second {
+    min-width: 800px;
+    margin-left: 50px;
+}
+}
+
+@media screen and (min-width:801px) and (max-width:989px){
+	.upload_media_file {
+    min-width: 450px !important;
+}
+.add_img_block_size {
+    width: 100%!important;
+}
+.add_img_block {
+    max-width: 211px!important;
+   
+}
+.add_img_block_size_2 {
+    width: 100%!important;
+}
+.add_img_block_size_2 {
+   height: 145px!important;
+   
+}
+.add_img_block_size_2 .upload-btn-wrapper .btn {
+    padding: 0px!important;
+}
+.add_img_block_top {
+   overflow: hidden;
+}
+.question-icon {
+    min-width: 450px !important;
+    margin-left: 25px!important;
+}
+.login_you_contant_inner h3 {
+    margin-top: 10px!important;
+}
+.login_you_contant_second {
+    min-width: 450px!important;
+    margin-left: 25px!important;
+}
+}
+@media screen and (min-width:426px) and (max-width:599px){
+	/*.add_img_block {
+    max-width: 181px!important;
+   
+}*/
+}
+.img-width {
+    padding: 0px!important;
+}
+.img-width img {
+    height: 100%;
+}
+
+
+@media screen and (min-width:768px) and (max-width:800px){
+    #login_you {
+        width: 100%;
+        max-width: 700px;
+        margin: 0 auto;
+    }
+    .question-icon {
+        min-width: 425px;
+    }
+}
+@media screen and (min-width:1600px) and (max-width:1919px){
+    #login_you {
+       max-width: 1200px;
+        margin: 0 auto;
+    }
+    .add_img_block {
+        max-width: 134px;
+    
+    }
+    #notifications {
+        max-width: 1269px!important;
+        margin: 0 auto;
+    }
+}
+#login_you {
+   margin: 0 auto;
+}
+@media screen and (min-width:810px) and (max-width:989px){
+    #login_you {
+       max-width: 700px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width:2400px) and(max-width:7680px){
+    .add_img_block {
+        max-width: 152px !important;
+      
+   }
+}
+@media screen and (min-width: 1441px) and (max-width:1599px){
+
+    #playits {
+        max-width: 1235px;
+    }
+    .custom_p {
+        min-width: 20%!important;
+        padding: 0px!important;
+    }
+    .custom_min_width {
+        min-width: 30%!important;
+    }
+    .custom_max_width {
+        max-width: 40%!important;
+        padding: 0px!important;
+    }
+  
+}
+@media screen and (min-width:1025px) and (max-width:1199px){
+    #notifications {
+        max-width: 900px !important;
+        margin: 0 auto;
+    }
+
+}
+@media screen and (min-width:769px) and (max-width:1023px){
+    .houre_day, .playit_notification_1 {
+        padding: 32px 12px;
+         margin-bottom: 10px;
+    }
+    .custom_p {
+         padding-right: 15px !important;
+        padding-left: 15px!important;
+    }
+    .pr-0 {
+        padding-right: 15px !important;
+    }
+    .custom-timer_2 {
+        margin-bottom: 0px;
+    }
+    .bonecrusher {
+        padding-top: 25px;
+    }
+    .mrgn1 {
+        margin-top: 10px;
+    }
+    .custom_min_width {
+        padding-right: 15px!important;
+    }
+    #notifications {
+        max-width: 610px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width:601px) and (max-width:767px){
+    .custom-table-notifications tbody tr:nth-child(1):after, .custom-table-notifications tbody tr:nth-child(2):after {
+        content: none;
+       
+    }  
+}

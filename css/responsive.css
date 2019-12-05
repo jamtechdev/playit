@@ -1,0 +1,1794 @@
+	.login_you_icon ul, .login_you_icon_next ul, .login_you_icon_Sync ul {
+		padding-left: 0px;
+	}
+	.cusrtom-company-pic {
+		background: #ffffff29;
+		padding: 12px;
+	}
+	.inbox_pb {
+		padding-bottom: 43px;
+	}
+	body {
+		overflow-x: hidden;
+	}
+	.show_nextt_33 ul li {
+		padding: 0px 15px;
+	}
+	.show_nextt_33 ul li:nth-child(2) a img {
+		max-width: 52px !important;
+	}
+	@media screen and (min-width:769px) and (max-width:800px){
+	#host .Story {
+		height: 357px;
+	}
+	#host .hostprofileartistside {
+		padding-top: 0px !important;
+		padding: 10px !important;
+	}
+	.host_timmer {
+		height: 318px;
+	}
+	#myNavbar .navbar-right {
+		margin-right: 0px;
+	}
+	.custim-navbar-nav-inner li a {
+		font-size: 16px;
+		text-transform: uppercase;
+		font-family: dinregular;
+		padding: 15px 15px 0px 0px !important;
+	}
+	.custom-title-right ul {
+		padding: 0px;
+	}
+	.login_you_icon_next li {
+		padding: 0px 25px;
+	}
+	#side_bar_custom {
+		margin-top: 20px;
+	}
+	.count-icon {
+		right: 75px;
+	}
+	.upload_media_file {
+		margin-left: 0px !important;
+		width: 100%;
+		min-width: 490px;
+	}
+	.add_img_block_size {
+		width: 61%;
+	}
+	.add_img_block_size_2 {
+		width: 39%;
+	}
+	.upload-btn-wrapper .btn {
+		padding: 57px 9px;
+	}
+	.question-icon {
+	   min-width: 485px;
+	}
+	}
+	@media screen and (max-width:900px) and (min-width:900px){
+		.upload_media_file {
+		min-width: 530px!important;
+		margin-left: 0px !important;
+	}
+	.add_img_block {
+	   max-width: 120px;
+	}
+	.upload-btn-wrapper .btn {
+		padding: 57px 38px;
+	}
+	.login_you_contant {
+		margin-left: 0px;
+	}
+	}
+	@media screen and (min-width:1024px){
+		.padd-0-all {
+		padding: 0px !important;
+	}
+	}
+	#playits {
+		max-width: 850px;
+		margin: 0px auto;
+	}
+	.custom-timer {
+		padding: 0px;
+		list-style-type: none;
+	}
+	.custom-timer li {
+		display: inline-block;
+		font-size: 30px;
+		font-weight: bold;
+		padding: 0px 10px;
+		position: relative;
+	}
+	.custom-timer li span {
+		display: block;
+		font-size: 10px;
+		font-weight: normal;
+		text-transform: uppercase;
+	}
+	.custom-timer li:after {
+		content: "";
+		background: #fff;
+		border: 2px solid #fff;
+		top: 5px;
+		position: absolute;
+		height: 30px;
+		right: 0px;
+	}
+	.custom-timer li:last-child:after {
+		border: 0px;
+	}
+	.Story-title {
+		font-size: 14px;
+	}
+	@media screen and (min-width:1600px){
+	.login_you_icon {
+		margin-left: 0px !important;
+		}
+	.profile-host-side {
+			height: 97vh !important;
+	}
+	.brand-mak-calendar img {
+		width: 100%;
+		max-width: 500px;
+		}
+	.mrg1 {
+		margin-top: 45px;
+		}
+	.pd {
+		padding: 94px 12px;
+		}
+	#login_you, #login_play{
+		width: 100% !important;
+		max-width: 1500px;
+		margin: 0 auto;
+	}
+	.add_img_block {
+		max-width: 239px;
+	}
+	.container-fluid {
+		zoom: 0.82;
+		-moz-transform: scale(0.82);
+		-moz-transform-origin: top;
+	}
+	.upload-btn-wrapper .btn {
+		padding: 57px 10px;
+	}
+	.add_img_block_size {
+		width: 36%;
+	}
+	.add_img_block img, .add_img_block_3 img {
+	max-width: 65px;
+	}
+	.show_nextt_3, .show_nextt_4, .show_nextt_33 {
+		bottom: -85px !important;
+	}
+	.add_img_block_size_2 {
+		width: 64%;
+	}
+	.question-icon {
+		min-width: 800px;
+	}
+	.login_you_icon_next.next_1 {
+		margin-top: 60px;
+	}
+	.upload_media_file .question-icon {
+		position: relative;
+		bottom: 66px !important;
+	}
+	#login_you {
+	height: 84vh;
+	}
+	#you .Avnr1, .edit_play_data_inner .Avnr1 {
+		height: 232px;
+	}
+	.Story-inner.hostprofileartistside p {
+		font-size: 10px;
+		font-family: dinregular;
+	}
+	#notifications {
+		max-width: 1600px;
+		margin: 0 auto;
+	}
+	.custom-table-notifications tbody>tr>td {
+		font-size: 14px;
+	}
+	.custom-table-update p {
+		font-size: 13px;
+		padding: 16px 8px !important;
+	}
+	.custom-table-notifications tbody>tr>td {
+	   padding: 15px 10px !important;
+	}
+	.custom-please-update p {
+		font-size: 14px;
+	}
+	.avner {
+		font-size: 36px;
+	}
+	.hi {
+		font-size: 36px;
+	}
+	.hi-avner {
+		max-width: 1600px;
+	}
+	#setting {
+	 max-width: 840px;
+	 }
+	 .homepagetab-2 {
+	width: 1600px !important;
+	}
+	.custom-navbar {
+		margin: 0px;
+		padding: 80px 0px 0px 0px;
+		margin-bottom: 0px !important;
+	}
+	#myNavbar .navbar-right {
+		margin-right: 0px;
+	}
+	.custom-logo img {
+		max-width: 110px;
+	}
+	.custom-container-dashboard {
+		width: 1600px!important;
+	}
+	.custom_offset {
+		width: 1433px!important;
+		margin-left: 4%!important;
+	}
+	.custom-left-inner-das {
+		padding: 12px 15px!important;
+	}
+	.custom-center-das {
+	   padding: 11px 0px;
+	}
+	.custom-center-das h3 {
+		font-size: 43px;
+		font-family: dinbold;
+	}
+	.custom-inner-right-das-list h1 {
+		font-size: 42px;
+	}
+	.custom-inner-right-das-list {
+		 padding: 12px 0px !important;
+	}
+	.custom-das-bottom {
+		border-radius: 10px;
+		padding: 10px 0px;
+	}
+	.custom-das-bottom {
+		height: auto!important;
+	}
+	.custom-inner-brand-top img {
+		width: 100%;
+		height: 190px;
+	}
+	.top-matches_sec {
+		padding-right: 30px !important;
+		padding-left: 30px !important;
+	}
+	.top-matches_sec_1{
+		padding-right: 0px !important;
+	}
+	.custom-das-bottom-right_sec {
+		height: 670px;
+	}
+	.earned_top {
+		margin: 0px;
+		height: 308px;
+	}
+	#playits {
+		max-width: 1235px;
+	}
+	.custom-timmer-full h1 {
+		font-family: dinbold;
+		font-size: 50px;
+	}
+	.Story-inner p {
+		font-size: 22px;
+		font-family: dinregular;
+	}
+	.custom-timmer-full {
+		height: auto;
+	}
+	.custom-title-right {
+		float: unset;
+	}
+	.custom-table-notifications-1 tbody>tr>td {
+		font-size: 14px;
+	}
+	.custom_p {
+		min-width: 20%!important;
+		padding: 0px!important;
+	}
+	.pr-0{
+		padding-right: 0px!important;
+	}
+	.custom_min_width{
+		min-width: 30%!important;
+	}
+	.custom_max_width{
+		max-width: 40%!important;
+		padding: 0px!important;
+	}
+	#srevice_all {
+		width: 100%;
+		max-width: 1170px;
+		margin-left: 50px;
+	}
+	#srevice_sound {
+		width: 100%;
+		max-width: 1000px;
+		margin: auto;
+	}
+	.service_piano_about {
+		height: 316px;
+	}
+	.host_user-cus {
+		height: 163px !important;
+	}
+	.custom_modal-dialog {
+		width: 400px!important;
+	}
+	#Homepage .navbar-nav .dropdown-toggle {
+		padding: 0px 38px;
+		font-size: 32px;
+	}
+	#Homepage3 .navbar-nav .dropdown-toggle {
+		padding: 0px 38px;
+		font-size: 32px;
+	}
+	#Homepage{
+		float: left;
+		width: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.header-menu .navbar-right .custom-dropdown-menu {
+		 min-width: 490px;
+		 border-radius: 10px;
+		 display: block !important;
+	}
+	.custom-dropdown-menu .nav-tabs>li>a {
+	   padding: 20px 96px;
+		max-width: 100%;
+		font-size: 16px;
+		font-family: dinregular;
+	}
+	.custom-tab-content #playit {
+		text-align: center;
+	}
+	.custom-tab-content #brand {
+		text-align: center;
+	}
+	.cutom-menu-2 i.fa.fa-linkedin {
+		right: unset;
+		font-size: 29px;
+		top: 7px;
+		left: 22px;
+	}
+	.homepagetab-2 .custom-tab-content li:first-child {
+		margin-bottom: 43px;
+	}
+	.homepagetab-2 .custom-tab-content #playit>li>a {
+	   padding: 13px 57px;
+		font-size: 19px;
+	   font-family: dinregular;
+	}
+	.homepagetab-2 .custom-tab-content #brand>li>a {
+		padding: 13px 57px;
+		 font-size: 19px;
+		font-family: dinregular;
+	 }
+	.cutom-menu-1 i.fa.fa-facebook {
+		left: 21px;
+		bottom: 10px;
+		font-size: 29px;
+	}
+	.custom-tab-content {
+		padding: 10px 50px;
+		margin-top: 35px;
+	}
+	.homepagetab-2 .custom-tab-content #playit .checkbox label {
+		font-size: 20px;
+		font-weight: normal !important;
+		font-family: dinlight;
+	}
+	.homepagetab-2 .custom-tab-content #brand .checkbox label {
+		font-size: 20px;
+		font-weight: normal !important;
+		font-family: dinlight;
+	}
+	#Homepage .custom-navbar-right {
+		transform: translate(-23%, 36%);
+	}
+	#Homepage3 .custom-navbar-right {
+		transform: translate(-23%, 36%);
+	}
+	#Homepage .checkbox label {
+		color: #fff;
+		margin: 25px 7px;
+		max-width: 85%;
+		width: 100%;
+	}
+	#Homepage3 .checkbox label {
+		color: #fff;
+		margin: 25px 7px;
+		max-width: 85%;
+		width: 100%;
+	}
+	#Homepage .custom-tab-content #brand .checkbox label {
+		color: #fff;
+		margin: 25px 7px;
+		max-width: 85%;
+		width: 100%;
+	}
+	#Homepage3 .custom-tab-content #brand .checkbox label {
+		color: #fff;
+		margin: 25px 7px;
+		max-width: 85%;
+		width: 100%;
+	}
+	.header-menu .navbar.navbar-inverse.brand_nav {
+		padding: 10px 0px;
+	}
+	.login_you_location li:nth-child(1) img {
+		max-width: 11px;
+		height: 22px;
+	}
+	.pick_your_player_select {
+		transform: translate(-7%, 0%);
+	}
+	.padd-0-all .Story {
+		height: 346px;
+	}
+	}
+	@media only screen and (min-width:1200px) and (max-width:1599px){
+	#notifications {
+		max-width: 1029px !important;
+		margin: 0px auto !important;
+	}
+	}
+	@media only screen and (min-width:320px) and (max-width:600px){
+	.custom-check_1 select {
+		width: 86%;
+	}
+	.custom-check_1 {
+		display: block !important;
+		float: inherit !important;
+		padding: 10px 10px 0px !important;
+	}
+	.custom-check {
+		color: #fff;
+		display: inline-block;
+		float: left;
+		padding: 10px 10px;
+		text-align: left;
+		padding-right: 0px;
+		position: relative;
+		left: 28px;
+	}
+	.click_your_profile {
+		font-size: 17px;
+	}
+	.custom-table-notifications tbody tr:nth-child(1):after, .custom-table-notifications tbody tr:nth-child(2):after {
+		content: none;
+	}  
+	.playit_notification_1 {
+		margin-top: 15px;
+	}
+	.custom_max_width {
+		display: inline-block;
+	}
+	.notefication_spaner {
+		margin-top: 15px;
+		margin-bottom: 10px;
+	}
+	.login_you_icon_Sync li {
+	   padding: 0px 20px;
+	}
+	#login_you h2, #login_play h2 {
+		transform: unset !important;
+	}
+	#host .hostprofileartistside {
+		padding: 0 !important;
+	}
+	#host .Story {
+	   height: auto;
+	}
+	#host .Story-title-2 {
+		font-size: 14px;
+	}
+	#host .location p {
+	   font-size: 13px;
+		font-family: dinregular;
+	}
+	#host .client p {
+	   font-size: 13px;
+		font-family: dinregular;
+	}
+	.mob-notict-9 {
+		display: none;
+	}
+	.mob-notict-3 .new-playit {
+		display: none;
+	}
+	.hi-avner {
+		padding-bottom: 0px !important;
+	}
+	.custom-title-right ul {
+		padding: 0px;
+	}
+	.custom-title-right ul li a, .custom-title-right ul li a:hover {
+		font-size: 12px;
+	}
+	.custom-title-right ul li:nth-child(1), .custom-title-right ul li:nth-child(2) {
+		padding-right: 4px;
+	}
+	.custom-left-das {
+		width: 100%;
+		display: inline-block;
+	}
+	.custom-left-inner-das .custom-group-left {
+		max-width: 80%;
+	}
+	.dollars_sec {
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.custom-das-bottom {
+		height: 384px !important;
+		margin-right: 5px !important;
+		margin-left: 5px !important;
+		border-radius: 5px;
+	}
+	.custom-left-das .custom-left-inner-das.pa:first-child:before {
+		left: -10px;
+	}
+	.custom-left-das .custom-left-inner-das.pa:nth-child(2):before {
+		left: -10px;
+	}
+	.custom-left-das .custom-left-inner-das.pa:nth-child(3):before {
+		left: -10px;
+	}
+	.custom-inner-brand-top img {
+		width: 100%;
+		height: auto;
+	}
+	.header-menu .navbar {
+		margin-bottom: 0px !important;
+	}
+	.custom-search-dashboard {
+		padding-bottom: 0px;
+	}
+	.custom-search-dashboard img {
+		margin-top: 15px;
+	}
+	.custom-title-right ul li a img {
+		max-width: 15px;
+	}
+	}
+	@media screen and (min-width:801px) and (max-width:1024px){
+	.add_img_block_size {
+		width: 49%;
+	}
+	.inbox_number {
+		padding: 31px 20px;
+	}
+	.inbox_mt {
+		margin-top: -15px;
+	}
+	#notifications {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.question-icon {
+	   min-width: 100%;
+		position: relative;
+		bottom: 67px;
+		left: 26px;
+		margin-left: 0px;
+	}
+	.upload-btn-wrapper .btn {
+		padding: 57px 25px;
+	}
+	.add_img_block {
+		max-width: 201px;
+	}
+	.show_nextt_4 ul li:nth-child(1) {
+		position: relative;
+		right: 25px;
+	}
+	.show_nextt_4 ul li:nth-child(4) {
+		position: relative;
+		left: 30px;
+	}
+	.add_img_block_size_2 {
+		width: 51%;
+	}
+	.upload_media_file {
+		margin-left: 25px;
+	}
+
+	#login_you, #login_play {
+		max-width: 945px;
+		height: auto !important;
+		margin: 0 auto;
+	}
+	.custom_width_gride {
+		min-width: 23%;
+	}
+	.login_you_contant_inner h3 {
+		font-size: 28px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.login_you_musician {
+		padding-bottom: 15px;
+	}
+	.login_you_location li {
+		padding: 0px 10px 0px 0px;
+		margin-bottom: 10px;
+	}
+	.login_you_location li a img {
+		max-width: 15px;
+	}
+	.login_you_text h4 {
+		font-family: dinregular;
+		font-size: 20px;
+	}
+	.login_you_text p {
+		font-size: 12px;
+		line-height: 14px;
+	}
+	.dataTables_length {
+		max-width: 128px;
+	}
+	#datatable tr td {
+		font-size: 16px;
+		width: 40%;
+	}
+	.loginafter {
+		min-width: 710px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.login_you_icon_next li {
+		padding: 0px 45px;
+	}
+	.pr-0 {
+		padding-right: 0px!important;
+	}
+	.custom_p {
+		padding: 0px !important;
+	}
+	#playits {
+		max-width: 980px;
+	}
+	.custom_max_width {
+		max-width: 36%;
+		padding-right: 0px!important;
+	}
+	.custom_min_width {
+		min-width: 31%;
+		padding-right: 0px!important;
+	}
+	.trending_inner_inner_graph ul {
+		padding: 0px;
+	}
+	.custom-timer_2 {
+		text-align: center;
+	}
+	.custom-timer_2 li {
+		font-size: 18px;
+		padding: 0px 0px;
+		text-align: center;
+	}
+	.custom-timer_2 li span {
+		margin-top: 5px;
+	}
+	#playits {
+		max-width: 1065px;
+	}
+	#Homepage .custom-navbar {
+		padding: 55px 0px 0px 0px;
+		margin-bottom: 0px !important;
+		width: 100%;
+		max-width: 919px;
+		margin: 0 auto;
+	}
+	#Homepage3 .custom-navbar {
+		padding: 55px 0px 0px 0px;
+		margin-bottom: 0px !important;
+		width: 100%;
+		max-width: 919px;
+		margin: 0 auto;
+	}
+	.header-menu .navbar.navbar-inverse.brand_nav {
+		padding: 10px 0px;
+	}
+	#Homepage {
+		height: 150vh;
+		background-size: cover;
+	}
+	.custom-dropdown-menu .nav-tabs>li>a {
+		padding: 13px 67px;
+	}
+	.custom-logo img {
+		max-width: 110px;
+	}
+	.custim-navbar-nav-inner li a {
+		padding: 15px 25px 0px 25px !important;
+	}
+	#myNavbar .navbar-right {
+		margin-right: 0px;
+	}
+	body.profile-host-side {
+		padding: 0px 0px 100px 0px;
+	}
+	.login_you_musician li {
+		padding: 0px 10px 0px 10px;
+	}
+	.feedmain_side_bar {
+		padding: 20px 20px;
+	}
+	.mainfeed_type {
+		padding-bottom: 5px;
+	}
+	.mainfeed_.event_detalis_celander .c-pad-top {
+		font-size: 13px;
+	}
+	.pick_your_player_select {
+		transform: translate(-7%, 0%);
+	}
+	.main_feed_gallery {
+	   margin-top: 20px;
+	}
+	.gal_imgs img {
+	   height: 230px;
+	}
+	.gallery_product:nth-child(7n+1) {
+		clear: unset;
+	}
+	.services_feed {
+		padding: 20px 20px;
+	}
+	.service_contant_inner_tab {
+		padding: 15px 15px;
+	}
+	.service_box_title h2 {
+		font-size: 20px;
+		font-family: dinregular;
+	}
+	.service_box_title p {
+		font-size: 14px;
+	}
+	.Story {
+	   height: 380px;
+	}
+	.host_timmer {
+	max-height: 319px;
+	}
+	.host_user-cus {
+		height: 201px !important;
+	}
+	#Homepage3 #myNavbar .navbar-right {
+		margin-right: 0px !important;
+	}
+	#host .Story-inner {
+		padding: 0px;
+	}
+	#host .Story-inner p {
+		font-size: 15px;
+		font-family: dinregular;
+	}
+	#host .Story {
+		height: 300px;
+	}
+	}
+	@media screen and (min-width:601px) and (max-width:768px){
+	.login_you_icon {
+		padding-top: 10px;
+	}
+	.login_you_icon.next_1 li {
+		padding: 0px 50px;
+	}
+	.show_nextt_4 ul li:nth-child(1) {
+		position: relative;
+		right: 0px;
+	}
+	.login_you_icon_Sync li {
+		padding: 0px 20px;
+	}
+	.show_nextt_4 ul li:nth-child(4) {
+		position: relative;
+		left: 0;
+	}
+	.login_you_icon.next_1 li {
+		 padding: 0px 30px;
+	}
+	.login_you_you ul .active:before {
+		right: -26px;
+	}
+	#side_bar_custom {
+		margin-top: 20px;
+	}
+	.count-icon {
+		right: 75px;
+	}
+	.header-menu .brand_nav {
+		margin-bottom: 0px;
+	}
+	.upload_media_file {
+		margin-left: 0px;
+		width: 100%;
+		min-width: 475px;
+	}
+	.question-icon {
+		margin-left: 0px;
+		width: 100%;
+		min-width: 475px;
+	}
+	.add_img_block_size {
+		width: 50%;
+	}
+	.add_img_block {
+		max-width: 118px;
+		height: 100px;
+	}
+	.upload-btn-wrapper .btn {
+		padding: 36px 10px;
+	}
+	.add_img_block_size_2 {
+		width: 50%;
+		height: 207px;
+	}
+	.report {
+		width: 100%;
+	}
+	.login_you_icon_next li {
+		padding: 0px 45px;
+	}
+	#myNavbar .navbar-right {
+		margin-right: 0px;
+	}
+	.custim-navbar-nav-inner li a {
+	   padding: 15px 15px 0px 10px !important;
+	}
+	.custom-logo {
+		padding: 0px 25px;
+		margin-top: 5px;
+	}
+	.row.fans-chart .col-md-2.col-sm-2.col-xs-2 {
+	 display: unset;
+	}
+	.row.pl-details2, .row.pl-details4, .row.pl-details6 {
+		margin-right: 0px;
+	}
+	p.Story-title-2 {
+		font-size: 15px;
+		font-family: dinregular;
+	}
+	.padd-0-all .Story {
+		height: 345px !important;
+	}
+	.custim-navbar-nav-inner-1 li a {
+	   padding: 15px 7px 0px 7px !important;
+	}
+	.custom-title-right ul {
+		padding: 0px;
+	}
+	.custom-title-right ul li:nth-child(1), .custom-title-right ul li:nth-child(2) {
+		padding-right: 0px;
+	}
+	.custom-title-right ul li a, .custom-title-right ul li a:hover {
+		font-size: 13px;
+	}
+	.custom-title-right ul li a img {
+		max-width: 18px;
+	}
+	.custom-das-bottom {
+		height: 180px !important;
+		border-radius: 5px;
+	}
+	.custom-left-inner-das .custom-group-left {
+		max-width: 84%;
+	}
+	.padd-l-r-0 {
+	padding-left: 0px !important;
+	}
+	.custom-center-das h3 {
+	font-size: 22px;
+	}
+	.feedmain_side_bar {
+	   padding: 20px 10px;
+	}
+	.pick_player_title {
+		font-size: 15px;
+	}
+	.main_feed_gallery .btn-default {
+		font-size: 15px;
+		padding: 6px 8px;
+	}
+	.main_feed_gallery {
+		margin-bottom: 20px;
+		margin-top: 20px;
+	}
+	#Homepage3 .custom-navbar {
+		margin-top: 40px;
+	}
+	#Homepage .custom-navbar {
+		margin-top: 40px;
+	}
+	#host .hostprofileartistside {
+		padding: 0 !important;
+	}
+	#host .Story {
+		height: 357px;
+	}
+	#host .Story-title-2 {
+		font-size: 14px;
+	}
+	#playits .custom-timmer-full {
+		height: 276px !important;
+	}
+	.host_timmer {
+		min-height: 286px !important;
+	}
+	.custom-timmer-full h1 {
+		font-size: 37px;
+	}
+	.earned_top {
+		height: 287px!important;
+	}
+	.host_timmer h1 {
+		margin-top: 5px !important;
+	}
+	#playits .play-Story-title {
+	   padding: 4px 0px 0px 0px;
+	}
+	#playits .earned_inner {
+		font-size: 30px;
+	}
+	#playits .padd-0-all {
+		padding: 0px;
+	}
+	#notifications {
+		width: 100%;
+		max-width: 610px;
+		margin: 0 auto;
+	}
+	#setting .edit_btn {
+		margin-top: 30px;
+		text-align: center;
+		padding-bottom: 40px;
+	}
+	.playit_notification_1 {
+		margin-bottom: 15px;
+	}
+	.houre_day {
+		margin-bottom: 10px;
+	}
+	.mrgn1 {
+		margin-top: 10px;
+	}
+	#playits {
+		max-width: 595px;
+	}
+	#setting {
+		max-width: 595px;
+	}
+	#playits .custom-table-notifications-1 thead tr th {
+	   font-size: 15px;
+	}
+	#playits .custom-table-notifications-1 tbody>tr>td:last-child {
+		width: 17%;
+	}
+	#playits .tabel-details {
+		padding: 2px 3px;
+	}
+	.custom-notifications-tabs-inner-you #You, .edit_play_data_inner {
+		max-width: 630px;
+	}
+	.custom-notifications-tabs-inner-you #You .Story-inner-you, .edit_play_data_inner .Story-inner-you {
+		height: 245px;
+	}
+	.custom-notifications-tabs-inner-you #You .Story-title-2, .edit_play_data_inner .Story-title-2 {
+		font-size: 11px;
+		text-align: justify;
+	}
+	.custom-notifications-tabs-inner-you #Fans .rel-txt .footer-cont1, .rel-txt .footer-cont4 {
+		position: relative;
+		top: -24px;
+	}
+	.custom-notifications-tabs-inner-you #Fans .month ul li {
+		font-size: 13px;
+	}
+	.custom-notifications-tabs-inner-you #Fans .month ul li span{
+		font-size: 14px !important;
+	}
+	.custom-notifications-tabs-inner-you #Fans {
+		max-width: 670px;
+	}
+	.services_feed {
+	   padding: 20px 10px;
+	}
+	.service_piano_about {
+		margin-bottom: 10px;
+		border-radius: 5px;
+	}
+	.host_user_image {
+		border-radius: 5px;
+	}
+	.srevice_sound_contant {
+		border-radius: 5px;
+	}
+	.srevice_sound_contant1 {
+		border-radius: 5px;
+	}
+	#srevice_sound .inner-contant {
+		border-radius: 5px;
+	}
+	#playits .custom-timmer-full .Story-inner {
+		padding: 18px;
+	}
+	.custom-timer_2 {
+	  text-align: center;
+	}
+	}
+	@media screen and (min-width:1025px) and (max-width:1440px){
+	.pd {
+		padding: 93px 12px;
+	}
+	.login_you_icon_next.next_1 {
+		margin-top: 58px;
+	}
+	.brand-mak-calendar img {
+		width: 100%;
+		max-width: 600px;
+	}
+	.upload_media_file .question-icon {
+		position: relative;
+		right: 29px;
+		bottom: 46px;
+	}
+	.upload_socila_icon {
+		position: relative;
+		bottom: 16px;
+	}
+	.inbox_mt {
+		margin-top: -15px;
+	}
+	.mrg1 {
+		margin-top: 55px;
+	}
+	.step_second ul li.login_0 {
+		font-size: 18px!important;
+		margin-left: 20px!important;
+	}
+	.step_second ul li.login_3 {
+		font-size: 14px!important;
+		padding-right: 32px!important;
+	}
+	.step_three ul li.login_2 {
+		font-size: 15px!important;
+		padding-right: 35px!important;
+	}
+	.step_three ul li.login_3 {
+		font-size: 11px!important;
+		padding-right: 50px!important;
+	}
+	.step_three ul .login_1 {
+		font-size: 12px!important;
+	}
+	.step_four ul li.login_2 {
+		font-size: 14px!important;
+		padding-right: 50px!important;
+	}
+	.step_four ul .login_1 {
+		font-size: 14px!important;
+	}
+	.login_you_contant_inner h3 {
+	   font-size: 28px;
+	}
+	.login_you_text {
+		margin-top: 15px;
+	}
+	.upload_media_file {
+		margin-left: 50px;
+		padding-top: 10px;
+	}
+	.add_img_block_size_2 {
+		width: 64%;
+	}
+	.add_img_block_size {
+		width: 36%;
+	}
+	.login_you_contant_second {
+		margin-left: 50px;
+	}
+	.step-six {
+		padding-top: 0px !important;
+	}
+	.step-six .login_1 {
+		font-size: 14px !important;
+	}
+	.step-six li.login_3 {
+		font-size: 12px!important;
+		padding-right: 47px!important;
+	}
+	#Homepage .custom-navbar {
+		padding: 55px 0px 0px 0px;
+		margin-bottom: 0px !important;
+		width: 100%;
+		margin: 0 auto;
+	}
+	.custom-timmer-full {
+		height: 319px !important;
+	}
+	.pt-loc1 ul li {
+		padding: 0px 9px;
+	}
+	#Homepage3 .custom-navbar {
+		padding: 55px 0px 0px 0px;
+		margin-bottom: 0px !important;
+		width: 100%;
+		margin: 0 auto;
+	}
+	.login_you_you ul li.login_2 {
+		font-size: 10px;
+		padding-right: 50px;
+	}
+	.login_you_you ul li.login_3 {
+		font-size: 7px;
+		padding-right: 70px;
+	}
+	.login_you_you ul li.login_4 {
+		font-size: 7px;
+		padding-right: 90px;
+	}
+	.add_img_block {
+	   max-width: 173px;
+	}
+	.upload-btn-wrapper .btn {
+		padding: 57px 13px;
+	}
+	.add_img_block img {
+		max-width: 55px;
+	}
+	.add_img_block_3 .upload-btn-wrapper .btn {
+		padding: 10px 15px;
+	}
+	.add_img_block_3 img {
+		max-width: 55px;
+	}
+	.img-width img {
+		height: 100%;
+		width: 100% !important;
+		max-width: 100%;
+	}
+	.brand-mak-calendar img {
+		width: 100%;
+		max-width: 500px;
+		text-align: center;
+	}
+	.report {
+		width: 100%;
+	}
+	.custom-notifications-tabs-inner-you #You .Story-inner-you, .edit_play_data_inner .Story-inner-you {
+		height: 253px;
+	}
+	#You .Avnr1, .edit_play_data_inner .Avnr1 {
+		height: 254px;
+	}
+	body.profile-host-side {
+		padding: 0px 0px 100px 0px;
+	}
+	.login_you_musician li {
+		padding: 0px 10px 0px 10px;
+	}
+	.custom-logo img {
+		max-width: 110px;
+	}
+	#myNavbar .navbar-right {
+		margin-right: 0px;
+	}
+	#Homepage {
+		background-size: cover;
+	}
+	.header-menu .navbar.navbar-inverse.brand_nav {
+		padding: 5px 0px;
+	}
+	.custom-dropdown-menu .nav-tabs>li>a {
+		padding: 13px 67px;
+	}
+	#Homepage .custom-navbar-right {
+		transform: translate(-23%, 36%);
+	}
+	#Homepage3 .custom-navbar-right {
+		transform: translate(-23%, 36%);
+	}
+	#playit .cutom-menu-2 {
+		padding: 13px 36px;
+	}
+	.login_you_contant {
+		margin-left: 50px; 
+	}
+	.login_you_contant_inner h3 {
+		margin-top: 5px;
+		margin-bottom: 0px;
+	}
+	.pr-0 {
+		padding-right: 0px!important;
+	}
+	.custom_p {
+		padding: 0px !important;
+	}
+	#playits {
+		max-width: 1065px;
+	}
+	.custom_max_width {
+		max-width: 36%;
+		padding-right: 0px!important;
+	}
+	.custom_min_width {
+		min-width: 31%;
+		padding-right: 0px!important;
+	}
+	.custom-timer_2 li {
+		font-size: 18px;
+		padding: 0px 2px;
+		text-align: center;
+	}
+	.custom-timer_2 {
+		text-align: center;
+	}
+	.custom-timer_2 li span {
+		margin-top: 5px;
+	}
+	.feedmain_side_bar {
+		padding: 20px 40px;
+	}
+	.mainfeed_type {
+		padding-bottom: 5px;
+	}
+	.mainfeed_.event_detalis_celander .c-pad-top {
+		font-size: 13px;
+	}
+	.pick_your_player_select {
+		transform: translate(-7%, 0%);
+	}
+	.main_feed_gallery {
+	   margin-top: 10px;
+	}
+	.gal_imgs img {
+	 height: 200px;
+    max-width: 204px;
+	}
+	.gallery_product:nth-child(7n+1) {
+		clear: unset;
+	}
+	.service_contant_inner_tab {
+		padding: 15px 15px;
+	}
+	.service_box_title h2 {
+		font-size: 20px;
+		font-family: dinregular;
+	}
+	.service_box_title p {
+		font-size: 14px;
+	}
+	.services_feed {
+		padding: 20px 50px;
+	}
+	.host_timmer {
+		max-height: 318px !important;
+	}
+	.Story {
+	  height: 349px !important;
+	}
+	.host_user-cus {
+		height: 191px !important;
+	}
+	#login_you, #login_play {
+		max-width: 1100px;
+	}
+	.question-icon {
+		min-width: 800px;
+		margin: 0 auto;
+	}
+	.question-icon-3 {
+		min-width: 100%;
+	}
+	}
+	.login_you_you ul .login_0 {
+		font-size: 18px;
+	}
+	.login_you_you ul .login_1 {
+		font-size: 16px;
+	}
+	.padd-l-r-0 {
+		padding-left: 0px;
+	}
+	.custom-das-bottom {
+		padding-bottom: 20px;
+		padding-top: 10px;
+	}
+	.mainfeed_.event_detalis p {
+	  color: #000;
+	}
+	#Homepage3 #myNavbar .navbar-right {
+		margin-right: 0px !important;
+	}
+	.custom-timmer-full h1 {
+		font-size: 46px;
+	}
+	.location {
+		padding: 17px;
+	}
+	.earned_top {
+		height: 318px;
+	}
+	.custom-form-check input[type="checkbox"] + .label-text:before {
+		font-size: 22px;
+	}
+	.custom-form-check span.label-text {
+		font-size: 13px;
+		margin-right: 14px;
+	}
+	.custom-form-check {
+	   margin-right: 20px;
+	}
+	.bonecrusher_title_1, .bonecrusher_title {
+		font-size: 10px;
+	}
+	.custom-table-notifications-1 tbody>tr>td:nth-child(1), .custom-table-notifications-1 tbody>tr>td:nth-child(2), .custom-table-notifications-1 tbody>tr>td:nth-child(3) {
+		font-size: 17px;
+		font-family: dinbold;
+	}
+	.tabel-details {
+		font-size: 14px;
+		font-family: dinbold;
+	}
+	.playit_notification_inner_1 p {
+		font-size: 13px;
+	}
+	.Story-title-2 {
+		font-family: dinregular;
+		font-size: 14px;
+	}
+	.hostprofileartistside {
+		padding-top: 20px !important;
+	}
+	.hostprofileartistside p.Story-title-2 {
+		font-size: 14px !important;
+	}
+	.Story-title {
+		font-size: 25px;
+	}
+
+	@media screen and (min-width:601px) and (max-width:767px){
+	.add_img_block {
+		height: 104px;
+	}
+	#playits .padd-0-all {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.custom-center-das {
+		width: 100%;
+		display: inline-block;
+	}
+	.padd-l-r-0 {
+		padding-left: 15px !important;
+	}
+	.dollars_sec {
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+	}
+	.custom-check_1 {
+		padding: 10px 54px 0px;
+	}
+	.custom-check {
+		padding-right: 10px;
+	}
+	}
+	@media screen and (min-width:1441px) and (max-width:1599px){
+	.add_img_block {
+		max-width: 207px;
+	}
+	.brand-mak-calendar img {
+
+	}
+	.profile-host-side .container-fluid {
+		zoom: 0.82;
+		-moz-transform: scale(0.82);
+		-moz-transform-origin: top;
+	}
+	.upload-btn-wrapper .btn {
+		padding: 57px 10px;
+	}
+	#login_you, #login_play {
+		width: 100%;
+		max-width: 1100px;
+	}
+	.upload_media_file {
+		min-width: 100%;
+		padding-top: 0;
+	}
+	.show_nextt_3, .show_nextt_4, .show_nextt_33 {
+		bottom: -80px !important;
+	}
+	.add_img_block_size {
+		width: 43%;
+	}
+	.add_img_block_size_2 {
+		width: 57%;
+	}
+	.question-icon {
+		min-width: 700px;
+		margin-left: 50px;
+	}
+	}
+	@media screen and (min-width:801px) and (max-width:989px){
+	.show_nextt_4 ul li {
+		position: relative;
+		left: 100px;
+	}
+	.show_nextt_4 ul li:nth-child(4) {
+		position: relative;
+		left: 110px!important;
+	}
+	.upload_media_file {
+		min-width: 600px !important;
+	}
+	.add_img_block_size {
+		width: 100%!important;
+	}
+	.add_img_block {
+		max-width: 286px!important;
+	}
+	.add_img_block_size_2 {
+		width: 100%!important;
+	}
+	.add_img_block_size_2 {
+	   height: 145px!important;
+	}
+	.add_img_block_size_2 .upload-btn-wrapper .btn {
+		padding: 0px!important;
+	}
+	.add_img_block_top {
+	   overflow: hidden;
+	}
+	.login_you_contant_inner h3 {
+		margin-top: 10px!important;
+	}
+	.login_you_contant_second {
+		min-width: 450px!important;
+		margin-left: 25px!important;
+	}
+	}
+	@media screen and (min-width:426px) and (max-width:599px){
+
+	}
+	.img-width {
+		padding: 0px!important;
+	}
+	.img-width img {
+		height: 100%;
+	}
+	@media screen and (min-width:768px) and (max-width:800px){
+	.calender_sub ul li a {
+		font-size: 16px;
+		margin: 0px 0px;
+	}
+	.calender_sub ul li {
+		padding: 10px 25px;
+	}
+	.calender_sub ul li:before {
+		left: -7px;
+	}
+	#login_you, #login_play {
+		width: 100%;
+		max-width: 700px;
+		margin: 0 auto;
+	}
+	.question-icon {
+		min-width: 425px;
+	}
+	}
+	@media screen and (min-width:1600px) and (max-width:1919px){
+	#login_you, #login_play {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+	.add_img_block {
+		max-width: 189px;
+	}
+	.container-fluid {
+		zoom: 0.82;
+		-moz-transform: scale(0.82);
+		-moz-transform-origin: top;
+	}
+	#notifications {
+		max-width: 1269px!important;
+		margin: 0 auto;
+	}
+	}
+	#login_you, #login_play {
+		margin: 0 auto;
+	}
+	@media screen and (min-width:810px) and (max-width:989px){
+	#login_you, #login_play {
+		max-width: 700px !important;
+		margin: 0 auto;
+	}
+	}
+	@media screen and (min-width:2400px) and(max-width:7680px){
+	.add_img_block {
+		max-width: 152px !important;
+	}
+	}
+	@media screen and (min-width: 1441px) and (max-width:1599px){
+	#playits {
+		max-width: 1235px;
+	}
+	.custom_p {
+		min-width: 20%!important;
+		padding: 0px!important;
+	}
+	.custom_min_width {
+		min-width: 30%!important;
+	}
+	.custom_max_width {
+		max-width: 40%!important;
+		padding: 0px!important;
+	}
+	}
+	@media screen and (min-width:1025px) and (max-width:1199px){
+	#notifications {
+		max-width: 900px !important;
+		margin: 0 auto;
+	}
+	}
+	@media screen and (min-width:769px) and (max-width:1023px){
+	.houre_day, .playit_notification_1 {
+		padding: 32px 12px;
+		 margin-bottom: 10px;
+	}
+	.padd-0-all {
+		padding: 0px !important;
+	}
+	.custom_p {
+		padding-right: 15px !important;
+		padding-left: 15px!important;
+	}
+	.pr-0 {
+		padding-right: 15px !important;
+	}
+	.custom-timer_2 {
+		margin-bottom: 0px;
+		text-align: center;
+	}
+	.houre_day {
+		padding: 31px 12px !important;
+	}
+	.playit_notification_2 {
+		padding: 27px 20px;
+	}
+	.inbox_pb {
+		padding-bottom: 14px;
+	}
+	.custom-table-notifications-1 tbody>tr>td:nth-child(2) {
+		font-size: 13px;
+	}
+	.tabel-details {
+		font-size: 11px;
+	}
+	.tabel-details {
+		padding: 1px 3px;
+	}
+	.custom-table-notifications-1 tbody>tr>td:nth-child(1){
+		font-size: 12px;
+	}
+	.bonecrusher {
+		padding-top: 25px;
+	}
+	.mrgn1 {
+		margin-top: 10px;
+	}
+	.custom_min_width {
+		padding-right: 15px!important;
+	}
+	#notifications {
+		max-width: 610px;
+		margin: 0 auto;
+	}
+	}
+	@media screen and (min-width:601px) and (max-width:767px){
+	.custom-table-notifications tbody tr:nth-child(1):after, .custom-table-notifications tbody tr:nth-child(2):after {
+		content: none;
+	}  
+	}
+	@media screen and (min-width: 1200px){
+	.question_4 {
+		bottom: 45px!important;
+		right: 0px!important;
+	}
+	}
+	@media screen and (max-width: 1366px){
+	.profile-host-side .container-fluid{
+		zoom: 0.82;
+		-moz-transform: scale(0.82);
+		-moz-transform-origin: top;
+	}
+	.inbox-zoom {
+		zoom: unset !important;
+		-moz-transform: unset !important;
+	}
+	.about-page {
+		zoom: unset !important;
+		-moz-transform: unset !important;
+	}
+	}
+	@media screen and (min-width: 1367px) and (max-width:1440px){
+	.container-fluid {
+		zoom: 0.75;
+		-moz-transform: scale(0.75);
+		-moz-transform-origin: top;
+	}
+	.about-page{zoom:unset !important;}
+	.about-tab2 .cutom-tabs-inner {
+		zoom: 0.74 !important;
+		margin-top: 10px;
+	}
+	}
+	@media screen and (min-width:1920px){
+	.mlist {
+		left: 0px;
+	}
+	}
+	.img-width img {
+		height: 100%;
+		max-width: 100%;
+	}
+	@media screen and (min-width:320px) and (max-width:1024px){
+	body {
+		height: auto !important;
+	}
+	.popup_inner {
+		transform: translate(0%, 50%);
+	}
+	}
+	@media screen and (min-width:1440px){
+	.upload_socila_icon {
+		position: relative;
+		bottom: 25px;
+	}
+	}
+	@media screen and (min-width:1025px){
+	.Profile #Fans, body.Edit_Plays_data #Fans  {
+		zoom: 0.83 !IMPORTANT;
+		-moz-transform: scale(0.83);
+		-moz-transform-origin: top;
+	}
+	.about-tab2 .cutom-tabs-inner {
+		zoom: 0.74;
+	}
+	.About::-webkit-scrollbar { width: 0 !important }
+	.About { -ms-overflow-style: none; }
+	.About { overflow: -moz-scrollbars-none; }
+	.Profile .row.fans-chart .col-md-2.col-sm-2.col-xs-2, body.Edit_Plays_data .row.fans-chart .col-md-2.col-sm-2.col-xs-2  {
+		max-height: 140px!IMPORTANT;
+		min-height: 140px!IMPORTANT;
+	}
+	.Profile .ed-img, body.Edit_Plays_data .ed-img {
+		margin: 0px auto!IMPORTANT;
+	}
+	div#You .custon-edit, .edit_play_data_inner .custon-edit {
+		position: relative;
+		top: 15px;
+	}
+	.Profile .custom-notifications-tabs-inner-you #You, body.Edit_Plays_data .custom-notifications-tabs-inner-you #You, .edit_play_data_inner {
+		max-width: 1200px!important;
+		margin: 0px auto;
+		width: 100%;
+	}
+	.profile_calender ul {
+		padding: 0px 20px;
+		text-align: right;
+	}
+	.Profile .Avnr1, .Edit_Plays_data .Avnr1  {
+		background: linear-gradient(to bottom, #ffffff0d, #0000002b)!important;
+	}
+	.Profile .custom-notifications-tabs-inner-you #You .Story-inner-you, .Edit_Plays_data .custom-notifications-tabs-inner-you #You .Story-inner-you, .edit_play_data_inner .Story-inner-you {
+		background: linear-gradient(to bottom, #ffffff0d, #0000002b)!important;
+	}
+
+	@-moz-document url-prefix() {
+	.add_img_block.col-xs-6.cstm-plr {
+		width: 48%;
+	}
+	.add_img_block {
+		height: 110px!important;
+	}
+	.add_img_block_size_2 {
+		height: 226px!important;
+	}
+	.audio_drfy span.file-icon::before {
+		top: 5px !important;
+		left: 5px !important;
+		max-width: 18% !important;
+	}
+	.upload_media_calender {
+		-moz-transform: scale(0.81);
+		position: relative;
+		bottom: 60px;
+		padding: 0px 10px!important;
+	}
+	.custom_display {
+		display: inline-block;
+		float: left;
+		width: 100%;
+	}
+	.upload_media_file {
+		padding: 0px 10px!important;
+	}
+	.Onboarding {
+		overflow: hidden;
+	}
+	.profile-host-side .container-fluid {
+		height: 670px;
+	}
+	body.Profile, body.Edit_Plays_data {
+		overflow: hidden;
+	}
+	.row.fans-chart .col-md-2.col-sm-2.col-xs-2 {
+		display: block !important;
+	}
+	body.Inbox {
+		overflow: hidden;
+	}
+	.dashboardhost-page {
+		-moz-transform:  unset!important;
+	}
+	.DashboardHost .custom-table-notifications thead tr th, .Inbox .custom-table-notifications thead tr th{
+		padding:0px !important
+	}
+	body {
+		overflow: hidden;
+	}
+	.DashboardBrand {
+		overflow: visible !important;
+	}
+	.popup_inner {
+		max-width: 770px;
+		transform: translate(0%, 50%);
+	}
+	}
+	@media all and (min--moz-device-pixel-ratio:768px) and (max-width: 800px){
+	.add_img_block {
+	max-width: 109px !important;
+	}
+	}
+	/*--------08-08-2019-----*/
+	@media screen and (max-width:767px){
+	.login_you_icon.step3_upload_section.next_1 {
+		display: block;
+		float: left;
+		width: 100%;
+	}
+	}
+	.mo-profile-add-icon span img {
+		width: 100%;
+		max-width: 16px;
+		position: relative;
+		bottom: 27px;
+		right: 22px;
+	}
+	.mo-profile-add-icon {
+		position: relative;
+		text-align: right;
+	}
